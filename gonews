@@ -1,0 +1,7 @@
+#!/usr/bin/python2.1
+
+import nntplib
+import GopherListen
+
+GopherListen.Listen()
+
